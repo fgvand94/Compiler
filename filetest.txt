@@ -1,0 +1,6 @@
+string something = "test";
+string anotherSomething = "Another";
+string somethingElse = "Third";
+int number = 5;
+int anotherNumber = 54 + 50 + 58;
+string another = "something";
